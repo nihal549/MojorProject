@@ -1,4 +1,4 @@
-# MojorProject
+# MajorProject
 
 Please use Google Chrome for better view
 
