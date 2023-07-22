@@ -17,8 +17,8 @@ document.querySelector('button').onclick = function sendIdentification() {
       console.log(base64files)
             
       const data = {
-        api_key: "qLcBPiOi748wHusOoqP4U7Mdv3Px5JgbqsNTZiRiAmVBcZMjPC",
-        images: base64files,
+        api_key: "vqNqDqdkaOaYmpCHDJqtwhyoeSiFj9NrDOw2xx32qogTIVIRH",
+        images: base64files,  
         
         modifiers: ["crops_fast", "similar_images"],
         language: "en",
